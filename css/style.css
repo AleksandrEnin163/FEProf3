@@ -1,0 +1,12 @@
+.hide {
+    display: none;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.print_text {
+    text-align: center;
+}
